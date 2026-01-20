@@ -1,0 +1,7 @@
+fastapi
+pydantic
+numpy
+faiss-cpu
+sentence-transformers
+requests
+googletrans==4.0.0rc1
