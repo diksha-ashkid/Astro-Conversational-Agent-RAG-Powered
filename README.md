@@ -467,7 +467,7 @@ Errors are logged server-side with safe client messaging.
 
 ## Conclusion
 
-The **Astro Conversational Insight Agent** is a production-ready AI system that combines astrological knowledge with modern NLP engineering best practices. Its multi-index vector architecture, robust safety mechanisms, multilingual support, and session-aware design ensure accurate, reliable, and user-safe consultations.
+The **Astro Conversational Agent** is a production-ready AI system that combines astrological knowledge with modern NLP engineering best practices. Its multi-index vector architecture, robust safety mechanisms, multilingual support, and session-aware design ensure accurate, reliable, and user-safe consultations.
 
 The modular architecture enables easy scalability and future enhancements, providing a strong foundation for real-world deployment.
 
